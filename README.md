@@ -1,2 +1,1 @@
-# This file is mandatory in all ALX School projects
-## updated
+## This file is mandatory in all ALX School projects
